@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://qwe1028rty.github.io/csb-r06t8m/static/js/main.099bdf4b.chunk.js",
+    "main.js.map": "https://qwe1028rty.github.io/csb-r06t8m/static/js/main.099bdf4b.chunk.js.map",
+    "runtime-main.js": "https://qwe1028rty.github.io/csb-r06t8m/static/js/runtime-main.7afee7d0.js",
+    "runtime-main.js.map": "https://qwe1028rty.github.io/csb-r06t8m/static/js/runtime-main.7afee7d0.js.map",
+    "static/js/2.9e1dd74b.chunk.js": "https://qwe1028rty.github.io/csb-r06t8m/static/js/2.9e1dd74b.chunk.js",
+    "static/js/2.9e1dd74b.chunk.js.map": "https://qwe1028rty.github.io/csb-r06t8m/static/js/2.9e1dd74b.chunk.js.map",
+    "index.html": "https://qwe1028rty.github.io/csb-r06t8m/index.html",
+    "static/js/2.9e1dd74b.chunk.js.LICENSE.txt": "https://qwe1028rty.github.io/csb-r06t8m/static/js/2.9e1dd74b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7afee7d0.js",
+    "static/js/2.9e1dd74b.chunk.js",
+    "static/js/main.099bdf4b.chunk.js"
+  ]
+}
